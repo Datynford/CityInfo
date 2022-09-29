@@ -26,3 +26,7 @@ D:\sharp\Cityinfo\Cityinfo.API\obj\Debug\net6.0\Cityinfo.API.pdb
 D:\sharp\Cityinfo\Cityinfo.API\obj\Debug\net6.0\Cityinfo.API.genruntimeconfig.cache
 D:\sharp\Cityinfo\Cityinfo.API\obj\Debug\net6.0\ref\Cityinfo.API.dll
 D:\sharp\Cityinfo\Cityinfo.API\bin\Debug\net6.0\C# In a Nutshell.pdf
+D:\sharp\Cityinfo\Cityinfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\sharp\Cityinfo\Cityinfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\sharp\Cityinfo\Cityinfo.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\sharp\Cityinfo\Cityinfo.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
