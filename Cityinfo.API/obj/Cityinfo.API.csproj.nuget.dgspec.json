@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\sharp\\CityInfo\\Cityinfo.API\\Cityinfo.API.csproj": {}
+    "D:\\sharp\\Cityinfo\\Cityinfo.API\\Cityinfo.API.csproj": {}
   },
   "projects": {
-    "D:\\sharp\\CityInfo\\Cityinfo.API\\Cityinfo.API.csproj": {
+    "D:\\sharp\\Cityinfo\\Cityinfo.API\\Cityinfo.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sharp\\CityInfo\\Cityinfo.API\\Cityinfo.API.csproj",
+        "projectUniqueName": "D:\\sharp\\Cityinfo\\Cityinfo.API\\Cityinfo.API.csproj",
         "projectName": "Cityinfo.API",
-        "projectPath": "D:\\sharp\\CityInfo\\Cityinfo.API\\Cityinfo.API.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\sharp\\CityInfo\\Cityinfo.API\\obj\\",
+        "projectPath": "D:\\sharp\\Cityinfo\\Cityinfo.API\\Cityinfo.API.csproj",
+        "packagesPath": "C:\\Users\\datyn\\.nuget\\packages\\",
+        "outputPath": "D:\\sharp\\Cityinfo\\Cityinfo.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\datyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,6 +48,18 @@
               "target": "Package",
               "version": "[6.0.9, )"
             },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -59,7 +71,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -71,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
