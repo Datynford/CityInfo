@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "UEF485mei1ZX3nfs6+oSMZ50XOqr6sa/QJp7qoVZhwYQGIWHr43od0BCbXsxg/RWHh+OVXeOesYs42FOe/2BzA==",
+  "dgSpecHash": "yLFi/f+OCvGUXUwfum5a7zglpzWdZbBx2LpoCgACBSG/d0dsKPtl1UYI/u5IBg/IsEMmKoq5b3n/akxXCZCS2g==",
   "success": true,
   "projectFilePath": "D:\\sharp\\Cityinfo\\Cityinfo.API\\Cityinfo.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\datyn\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\datyn\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\datyn\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\datyn\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.9\\microsoft.aspnetcore.jsonpatch.6.0.9.nupkg.sha512",
     "C:\\Users\\datyn\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.9\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.9.nupkg.sha512",
